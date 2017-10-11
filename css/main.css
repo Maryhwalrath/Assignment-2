@@ -18,14 +18,14 @@ body {
 
 #h1 {
     margin-left: 300px;
-    font-size 800px;
+    font-size 300px;
     color: dimgray;
     font-size: 70px;
 }
 
 h2 {
     margin-left: 300px;
-    padding=left: 30x;
+    padding=left: 30px;
     Color: dimgray;
 }
 
@@ -61,7 +61,7 @@ h3 {
 }
 
 #img1 {
-    margin-bottom: 20x;
+    margin-bottom: 20px;
     margin-left: 900px
 }
 
